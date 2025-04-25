@@ -17,5 +17,10 @@ Automatically teleport to next floor.
 ### Auto Boss Arena
 Automatically touches the boss arena white barrier.
 
+### HOW TO USE?
+Copy and paste it in your executer.<br>
+Access Key: ```Hazcript```<br>
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/Hazcript/World-Zero/refs/heads/main/CelesInfTower/v1.lua",true))()```
+
 ## NOTE:
 It automatically stop activates the Auto Attack when the mobs are cleared and automatically collect drops and teleport to next floor or touches boss arena white barrier if toggled.
